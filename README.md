@@ -1,6 +1,6 @@
 # Programming_Resources
 
-Various Python, programming and web resources in the Issues tab.
+Various Python, programming and web resources.
 
 
 <b>Python Books:</b>
