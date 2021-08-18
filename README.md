@@ -2,6 +2,10 @@
 
 Various Python, programming and web resources.
 
+<b>Markdown</b>
+
+[Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
 
 <b>Python Books:</b>
 
