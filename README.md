@@ -2,7 +2,7 @@
 
 Various Python, programming and web resources.
 
-<b>Markdown</b>
+<b>Markdown:</b>
 
 [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
