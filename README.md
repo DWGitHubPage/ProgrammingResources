@@ -163,7 +163,7 @@ Guides, quick references, free use sites and other links.
 
 [Image Uglifier](https://image-uglifier.glitch.me)
   
-[Image Online.CO](https://darken.imageonline.co) Especially to darken images.  
+[Image Online.CO](https://darken.imageonline.co) (Especially to darken images.)  
 
 [Spiral Betty](https://spiralbetty.com)
 
