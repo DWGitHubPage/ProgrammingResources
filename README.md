@@ -217,4 +217,4 @@ Lists, Dictionaries, Pygame, Matplotlib, Pygal Django, & others](https://ehmatth
 
 <b>Web Scraping:</b>
 
-[Web scraping cheat sheet](https://blog.hartleybrody.com/web-scraping-cheat-sheet/)
+[Web Scraping Cheatsheet](https://blog.hartleybrody.com/web-scraping-cheat-sheet/)
