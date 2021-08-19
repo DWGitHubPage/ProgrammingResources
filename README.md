@@ -8,6 +8,7 @@ Guides, quick references, free use sites and other links.
 - Free Image Hosting Sites 
 - Free Image Sites 
 - HTML 
+- Javascript
 - Logo Generator 
 - Markdown 
 - Matplotlib 
