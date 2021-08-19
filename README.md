@@ -13,7 +13,7 @@ Python, and other programming guides and cheatsheets for quick reference.
 
 [Python SpeedSheet](https://speedsheet.io/s/python)
 
-- <b> Code samples for the book Effective Python </b>
+<b> Code samples for the book Effective Python </b>
 
 [Effective Python examples](https://github.com/SigmaQuan/Better-Python-59-Ways)
 
