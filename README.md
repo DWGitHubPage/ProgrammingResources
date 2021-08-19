@@ -1,4 +1,6 @@
-Bootstrap, CSS, Emoji's, Fonts, Free Image Hosting Sites, Free Image Sites, HTML, Logo Generator, Markdown, Matplotlib, Modifying Images, Pandas, Python, Sass, Unicode, Web Accessibility, Web scraping, guides, quick references, free use sites and other links.
+
+Guides, quick references, free use sites and other links.
+Bootstrap, CSS, Emoji's, Fonts, Free Image Hosting Sites, Free Image Sites, HTML, Logo Generator, Markdown, Matplotlib, Modifying Images, Pandas, Python, Sass, Unicode, Web Accessibility, Web Scraping.
 
 
 <b>Bootstrap:</b>
