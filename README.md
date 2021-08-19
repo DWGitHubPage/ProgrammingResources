@@ -7,6 +7,8 @@ Guides, quick references, free use sites and other links.
 - Fonts 
 - Free Image Hosting Sites 
 - Free Image Sites 
+- Git
+- Github Markdown
 - HTML 
 - Javascript
 - Logo Generator 
@@ -57,6 +59,8 @@ Guides, quick references, free use sites and other links.
 
 
 <b>Emoji's:</b>
+
+[Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 [Emoji.com](https://www.iemoji.com)
 
@@ -120,6 +124,16 @@ Guides, quick references, free use sites and other links.
 [StockSnap.io](https://stocksnap.io)
 
 [Unsplash.com](https://unsplash.com)
+ 
+
+<b>Git:</b> 
+ 
+[Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+
+ 
+<b>Github Markdown:</b>
+ 
+[Github Markdown Formatting](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 <b>HTML:</b>
