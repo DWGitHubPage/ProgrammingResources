@@ -36,8 +36,6 @@
 
 - ## Soft Skills
 
-[How To Win Friends and Influence People by Dale Carnegie](https://images.kw.com/docs/2/1/2/212345/1285134779158_htwfaip.pdf)
-
 [Never Split the Difference: Negotiating As If Your Life Depended On It by Chris Voss](http://livre2.com/LIVREE/E1/E001005.pdf)
 
 [Nonviolent Communication: A Language of Life by Marshall P. Rosenberg](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf)
