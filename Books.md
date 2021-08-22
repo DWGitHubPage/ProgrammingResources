@@ -31,6 +31,8 @@
 
 [Natural Language Processing With Python (NLTK Book) by Steven Bird, Ewan Klein, and Edward Loper](https://www.nltk.org/book/)
 
+[Python Basics: A Practical Introduction to Python 3 by The RealPython Tutorial Team: David Amos, Dan Bader, Johanna Jablonski, Fletcher Heisler](https://media-exp1.licdn.com/dms/document/C4D1FAQH24gN3nULkaA/feedshare-document-pdf-analyzed/0/1629374282838?e=1629673200&v=beta&t=Dz7br5h1PLRL4PZ5WC3OMzaOb1aHcB_3rMPng1Dpnfo)
+
 [Python Cookbook, 3rd Ed. by David Beazley & Brian K. Jones](https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf)
 
 
