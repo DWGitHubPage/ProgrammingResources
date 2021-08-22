@@ -174,14 +174,16 @@ Guides, quick references, free use sites and other links.
 <b>Modifying Images Sites:<b>
 
 [Colourise](https://colourise.sg/#colorize)
-
-[Image Uglifier](https://image-uglifier.glitch.me)
   
 [Image Online.CO](https://darken.imageonline.co) (Especially to darken images.)  
+ 
+[Image Uglifier](https://image-uglifier.glitch.me)
+ 
+[Pexels.com](https://www.pexels.com/search/cityscape/)   
+ 
+[Remove Background Image](https://www.remove.bg)
 
 [Spiral Betty](https://spiralbetty.com)
-
-[Pexels.com](https://www.pexels.com/search/cityscape/)  
 
 
 <b>Pandas:</b>
