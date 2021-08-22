@@ -13,7 +13,7 @@
 
 [The Pragmatic Programmer](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf) by Andy Hunt and Dave Thomas
 
-[Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)) by Harold Abelson and Gerald Jay Sussman with Julie Sussman
+[Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) by Harold Abelson and Gerald Jay Sussman with Julie Sussman
 
 
 - ## Design:
