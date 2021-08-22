@@ -9,7 +9,7 @@
 
 [Inside the Machine](http://joe90.yolasite.com/resources/InsidetheMachine.pdf) by Jon Stokes
 
-[The Mythical Man-Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) by Frederick P. Brooks Jr.]
+[The Mythical Man-Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) by Frederick P. Brooks Jr.
 
 [The Pragmatic Programmer](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf) by Andy Hunt and Dave Thomas
 
