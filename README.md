@@ -14,6 +14,7 @@ Guides, quick references, free use sites and other links.
 - Logo Generator 
 - Markdown 
 - Matplotlib 
+- MergeFeed
 - Modifying Images 
 - Pandas 
 - Python 
@@ -169,6 +170,11 @@ Guides, quick references, free use sites and other links.
 <b>Matplotlib:</b>
 
 [Matplotlib Cheatsheet](https://github.com/rougier/matplotlib-cheatsheet/blob/master/README.md)
+ 
+ 
+ <b>MergeFeed</b>
+ 
+ [MergeFeed](https://mergefeed.net)
   
   
 <b>Modifying Images Sites:<b>
