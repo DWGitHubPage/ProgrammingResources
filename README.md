@@ -16,6 +16,7 @@ Guides, quick references, free use sites and other links.
 - Matplotlib 
 - MergeFeed
 - Modifying Images 
+- Note Taking
 - Pandas 
 - Python 
 - Sass 
@@ -190,6 +191,11 @@ Guides, quick references, free use sites and other links.
 [Remove Background Image](https://www.remove.bg)
 
 [Spiral Betty](https://spiralbetty.com)
+ 
+ 
+ <b>Note Taking</b>
+ 
+ [Kinopio](https://kinopio.club/)
 
 
 <b>Pandas:</b>
