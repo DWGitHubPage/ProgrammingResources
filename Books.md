@@ -7,6 +7,8 @@
 
 [Code: The Hidden Language of Computer Hardware And Software](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf) by Charles Petzold
 
+[Computer Science From the Bottom Up](https://www.bottomupcs.com) by Ian Wienand
+
 [Inside the Machine](http://joe90.yolasite.com/resources/InsidetheMachine.pdf) by Jon Stokes
 
 [The Mythical Man-Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) by Frederick P. Brooks Jr.
