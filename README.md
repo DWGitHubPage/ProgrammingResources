@@ -22,6 +22,7 @@ Guides, quick references, free use sites and other links.
 - Sass 
 - Unicode 
 - Web Accessibility 
+- Web Development
 - Web Scraping
 
  _______________________________________________________________________________________________________________________ 
@@ -241,6 +242,11 @@ Lists, Dictionaries, Pygame, Matplotlib, Pygal Django, & others](https://ehmatth
 [Web Accessibility Guide](https://webaccessibility.guide)
 
 [WEB Accessability by Level Access](https://webaccessibility.com)
+ 
+ 
+ <b>Web Development</b>
+ 
+ [](https://btholt.github.io/intro-to-web-dev-v2/)A really good extensive resource.
 
 
 <b>Web Scraping:</b>
