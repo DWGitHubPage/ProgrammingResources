@@ -249,6 +249,8 @@ Lists, Dictionaries, Pygame, Matplotlib, Pygal Django, & others](https://ehmatth
  [Buttons Generator](https://markodenic.com/tools/buttons-generator/)
  
  [Intro To Web Dev](https://btholt.github.io/intro-to-web-dev-v2/) (A really good extensive resource.)
+ 
+ [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons)
 
 
 <b>Web Scraping:</b>
