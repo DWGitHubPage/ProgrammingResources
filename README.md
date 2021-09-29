@@ -3,6 +3,7 @@ Guides, quick references, free use sites and other links.
 
 - Bootstrap 
 - CSS
+- Dithering Images Tool
 - Emoji's 
 - Fonts 
 - Free Image Hosting Sites 
@@ -59,6 +60,11 @@ Guides, quick references, free use sites and other links.
 [CSS Color Codes: List of Various Colors](https://www.quackit.com/css/css_color_codes.cfm)
 
 [PX-to-REM Calculator](https://daniellamb.com/experiments/px-to-rem-calc/)
+
+
+<b>Dithering Images Tool</b>
+
+[Dither Me This](https://doodad.dev/dither-me-this/)
 
 
 <b>Emoji's:</b>
