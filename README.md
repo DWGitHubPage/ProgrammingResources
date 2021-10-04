@@ -1,6 +1,7 @@
 
 Guides, quick references, free use sites and other links.
 
+- Alarm Clock
 - Bootstrap 
 - CSS
 - Dithering Images Tool
@@ -27,6 +28,11 @@ Guides, quick references, free use sites and other links.
 - Web Scraping
 
  _______________________________________________________________________________________________________________________ 
+ 
+ 
+ <b>Alarm Clock</b>
+ 
+ Online Alarm Clock[](https://onlinealarmkur.com/en/)
 
 <b>Bootstrap:</b>
 
