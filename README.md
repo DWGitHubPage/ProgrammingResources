@@ -32,7 +32,7 @@ Guides, quick references, free use sites and other links.
  
  <b>Alarm Clock</b>
  
- Online Alarm Clock[](https://onlinealarmkur.com/en/)
+ [Online Alarm Clock](https://onlinealarmkur.com/en/)
 
 <b>Bootstrap:</b>
 
