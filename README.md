@@ -22,6 +22,7 @@ Guides, quick references, free use sites and other links.
 - Pandas 
 - Python 
 - Sass 
+- Text Difference Tool
 - Unicode 
 - Web Accessibility 
 - Web Development
@@ -241,6 +242,11 @@ Lists, Dictionaries, Pygame, Matplotlib, Pygal Django, & others](https://ehmatth
 [Sass Cheat Sheet](https://devhints.io/sass)
 
 [Sass Cheat Sheet by mostafa6765 on Github](https://github.com/code4mk/sass-cheatsheet/blob/master/pdf/sass-cheatsheet-latest.pdf)
+ 
+ 
+ <b>Text Difference Tool</b>
+ 
+ [Text Compare](https://text-compare.com)
 
 
 <b>Unicode</b>
