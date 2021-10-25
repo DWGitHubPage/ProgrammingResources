@@ -1,7 +1,12 @@
 # List of books online for reference.
 
 
-- ## Computer Science and Programming:
+- ## Design:
+
+[The Design of Everyday Things](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) by Don Norman
+
+
+- ## Programming and Computer Science:
 
 [Clean Code: A Handbook of Agile Software Craftmanship](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf) by Robert C. Martin
 
@@ -16,11 +21,6 @@
 [The Pragmatic Programmer](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf) by Andy Hunt and Dave Thomas
 
 [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) by Harold Abelson and Gerald Jay Sussman with Julie Sussman
-
-
-- ## Design:
-
-[The Design of Everyday Things](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) by Don Norman
 
 
 - ## Python:
