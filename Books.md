@@ -38,7 +38,10 @@
 [Python Cookbook, 3rd Ed.](https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf) by David Beazley & Brian K. Jones
 
 
-- ## Soft Skills
+- ## Better Habits/Skills
+
+[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear]
+(https://indianpdf.files.wordpress.com/2021/12/atomic-habits-tiny-changes-remarkable-results-james-clear-www.indianpdf.com_-book-novel-download-free-online.pdf)
 
 [Never Split the Difference: Negotiating As If Your Life Depended On It](http://livre2.com/LIVREE/E1/E001005.pdf) by Chris Voss
 
