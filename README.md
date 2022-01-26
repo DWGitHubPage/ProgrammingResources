@@ -20,6 +20,7 @@ Guides, quick references, free use sites and other links.
 - Modifying Images 
 - Note Taking
 - Pandas 
+- Photopea - Online Photo Editor (Free Photoshop alternative)
 - Python 
 - Sass 
 - Text Difference Tool
@@ -217,6 +218,11 @@ Guides, quick references, free use sites and other links.
 [A Guide to Load Almost Anything Into a Dataframe](https://gretel.ai/blog/a-guide-to-load-almost-anything-into-a-dataframe)
 
 [Google Colaboratory: How to load (almost) anything into a DataFrame - Examples](https://colab.research.google.com/gist/pimlock/91e0021e53f24ea7e1244829e5235712/loading-data-into-dataframe.ipynb#scrollTo=UTRxpSlaczHY)
+ 
+ 
+<bPhotopea - Online Photo Editor (Free Photoshop alternative)/b>
+  
+[Photopea](https://www.photopea.com)
 
 
 <b>Python:</b>
