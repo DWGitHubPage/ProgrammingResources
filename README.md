@@ -220,7 +220,7 @@ Guides, quick references, free use sites and other links.
 [Google Colaboratory: How to load (almost) anything into a DataFrame - Examples](https://colab.research.google.com/gist/pimlock/91e0021e53f24ea7e1244829e5235712/loading-data-into-dataframe.ipynb#scrollTo=UTRxpSlaczHY)
  
  
-<bPhotopea - Online Photo Editor (Free Photoshop alternative)/b>
+<b>Photopea - Online Photo Editor (Free Photoshop alternative)</b>
   
 [Photopea](https://www.photopea.com)
 
